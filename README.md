@@ -1,2 +1,2 @@
 # Networking
-Basic TCP servers in c using some use multiplexing 
+Basic TCP servers in c and c++ some use multiplexing 
